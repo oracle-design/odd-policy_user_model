@@ -1,8 +1,8 @@
 {
   "name": "odd-policy_user_model",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "create policy user model from JWT payload",
-  "main": "lib/policy_user_model.js",
+  "main": "lib/odd-policy_user_model.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
     "dev": "webpack --progress --colors --watch --env dev",
